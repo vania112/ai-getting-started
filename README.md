@@ -1,4 +1,4 @@
-# AI Getting Started
+# AI Getting Started!
 
 [Live Demo (deployed on fly.io)](https://ai-getting-started.com/)
 
